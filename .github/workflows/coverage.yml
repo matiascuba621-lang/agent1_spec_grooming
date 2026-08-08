@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt coverage coverage-badge
+      - run: pip install -r requirements.txt coverage coverage-badge setuptools
       - run: coverage run -m pytest -q
       - run: coverage report
       - run: coverage-badge -o coverage.svg -f
