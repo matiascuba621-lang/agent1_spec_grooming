@@ -1,6 +1,7 @@
 # Agent 1 — Spec & Grooming Agent (Reference Implementation)
 
 [![Lint](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/lint.yml/badge.svg)](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/lint.yml)
+[![Tests](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/tests.yml/badge.svg)](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/tests.yml)
 
 A working implementation of the four components described in
 `Agent1_Spec_Grooming_Implementation_Guide.docx`, wired together with the
