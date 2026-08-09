@@ -1,5 +1,6 @@
 # Agent 1 — Spec & Grooming Agent (Reference Implementation)
 
+[![Build](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/build.yml/badge.svg)](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/build.yml)
 [![Lint](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/lint.yml/badge.svg)](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/lint.yml)
 [![Tests](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/tests.yml/badge.svg)](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/tests.yml)
 [![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/matiascuba621-lang/agent1_spec_grooming/master/coverage-badge.json)](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/coverage.yml)
