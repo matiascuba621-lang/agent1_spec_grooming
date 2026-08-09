@@ -5,6 +5,7 @@
 [![Tests](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/tests.yml/badge.svg)](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/tests.yml)
 [![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/matiascuba621-lang/agent1_spec_grooming/master/coverage-badge.json)](https://github.com/matiascuba621-lang/agent1_spec_grooming/actions/workflows/coverage.yml)
 [![License: MIT](https://img.shields.io/github/license/matiascuba621-lang/agent1_spec_grooming)](LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/matiascuba621-lang/agent1_spec_grooming)](https://github.com/matiascuba621-lang/agent1_spec_grooming/graphs/contributors)
 
 A working implementation of the four components described in
 `Agent1_Spec_Grooming_Implementation_Guide.docx`, wired together with the
