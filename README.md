@@ -10,6 +10,7 @@
 [![Code Size](https://img.shields.io/github/languages/code-size/matiascuba621-lang/agent1_spec_grooming)](https://github.com/matiascuba621-lang/agent1_spec_grooming)
 [![Repo Size](https://img.shields.io/github/repo-size/matiascuba621-lang/agent1_spec_grooming)](https://github.com/matiascuba621-lang/agent1_spec_grooming)
 [![Open Issues](https://img.shields.io/github/issues/matiascuba621-lang/agent1_spec_grooming)](https://github.com/matiascuba621-lang/agent1_spec_grooming/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/matiascuba621-lang/agent1_spec_grooming)](https://github.com/matiascuba621-lang/agent1_spec_grooming/pulls)
 
 A working implementation of the four components described in
 `Agent1_Spec_Grooming_Implementation_Guide.docx`, wired together with the
