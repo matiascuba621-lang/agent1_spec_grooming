@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 audit_log.jsonl
 reports/
+.coverage
+coverage.json

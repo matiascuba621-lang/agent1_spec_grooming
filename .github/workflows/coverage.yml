@@ -16,13 +16,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt coverage coverage-badge setuptools
+      - run: pip install -r requirements.txt coverage
       - run: coverage run -m pytest -q
       - run: coverage report
-      - run: coverage-badge -o coverage.svg -f
-      - name: Commit coverage badge
+      - run: coverage json -o coverage.json
+      - run: python .github/scripts/coverage_badge.py
+      - name: Commit coverage badge data
         if: github.event_name == 'push'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update coverage badge [skip ci]"
-          file_pattern: coverage.svg
+          file_pattern: coverage-badge.json
